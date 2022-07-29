@@ -17,8 +17,7 @@ fdsafdsafds
 - An active [AWS account][create-aws-account].
 - An [AWS CodeArtifact][codeartifact] repository.
 - A [GitHub][github] repository.
-- [Node.js][nodejs] v14.x or later on developer machines.
-fdsfds
+- [Node.js][nodejs] v14.x or later on developer fds
 ### Limitations
 
 - The [semantic-release-coderatifact][semantic-release-codeartifact] plugin
