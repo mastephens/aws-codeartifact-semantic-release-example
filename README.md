@@ -10,7 +10,7 @@ next version number, generating release notes, and publishing the package to
 In this example, we will be using GitHub with semantic-release to automate the
 release workflow of an npm package.
 
-## Prerequisites and Limitations
+## Prerequisites and Limitations 
 
 ### Prerequisites
 
