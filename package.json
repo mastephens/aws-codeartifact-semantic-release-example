@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aws-samples/aws-codeartifact-semantic-release-example.git"
+    "url": "git+https://github.com/mastephens/aws-codeartifact-semantic-release-example.git"
   },
   "author": {
     "name": "Ryan Sonshine",
