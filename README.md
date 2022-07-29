@@ -12,13 +12,13 @@ release workflow of an npm package.
 
 ## Prerequisites and Limitations 
 
-### Prerequisites fds
+### Prerequisites fdsfdsafds
 
 - An active [AWS account][create-aws-account].
 - An [AWS CodeArtifact][codeartifact] repository.
 - A [GitHub][github] repository.
 - [Node.js][nodejs] v14.x or later on developer machines.
-
+fdsfds
 ### Limitations
 
 - The [semantic-release-coderatifact][semantic-release-codeartifact] plugin
