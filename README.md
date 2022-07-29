@@ -27,7 +27,7 @@ currently only supports npm at the time of writing.
 ## Architecture
 
 ![Architecture Image][architecture-img]fdsfds
-
+fds
 The diagram shows the following workflow:
 
 1. Developers commit changes to the GitHub repository following a standardized
