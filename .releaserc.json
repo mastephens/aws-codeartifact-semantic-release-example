@@ -1,13 +1,18 @@
 {
-  "branches": ["main"],
+  "branches": [
+    "main"
+  ],
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    ["semantic-release-codeartifact", {
-      "tool": "npm",
-      "domain": "my-domain",
-      "repository": "my-repo"
-    }],
+    [
+      "semantic-release-codeartifact",
+      {
+        "tool": "npm",
+        "domain": "mstphns-test",
+        "repository": "RyanTest"
+      }
+    ],
     "@semantic-release/npm",
     "@semantic-release/github"
   ]
