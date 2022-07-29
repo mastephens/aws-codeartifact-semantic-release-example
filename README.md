@@ -9,7 +9,7 @@ next version number, generating release notes, and publishing the package to
 
 In this example, we will be using GitHub with semantic-release to automate the
 release workflow of an npm package.
-
+fdsfadsf
 ## Prerequisites and Limitations 
 
 ### Prerequisites fdsfdsafds
@@ -26,7 +26,7 @@ currently only supports npm at the time of writing.
 
 ## Architecture
 
-![Architecture Image][architecture-img]
+![Architecture Image][architecture-img]fdsfds
 
 The diagram shows the following workflow:
 
